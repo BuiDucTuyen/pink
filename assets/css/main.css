@@ -232,6 +232,7 @@ p, li, span {
 
 .bg_img {
   background-image: var(--bg-home);
+  background-repeat: no-repeat;
 }
 
 .footer-bg {
